@@ -41,10 +41,14 @@
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/rotation/rotation.css);
-
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__description/card__description.css);
 @import url(../blocks/card/__image/card__image.css);
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__item/card__item.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__gray-line/video__gray-line.css);
+@import url(../blocks/oakley/oakley.css);

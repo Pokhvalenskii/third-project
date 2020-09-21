@@ -1,0 +1,7 @@
+.video__iframes {
+  /* border: dashed orangered 1px; */
+  width: 1050px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}

@@ -1,0 +1,7 @@
+.video__gray-line {
+  width: 100%;
+  height: 160px;
+  background-color: #f2f2f2;
+  position: absolute;
+  bottom: 0;
+}
