@@ -1,3 +1,16 @@
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__main-illustration/header__main-illustration.css);
+@import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+
+@import url(../blocks/feinman/feinman.css);
+@import url(../blocks/feinman/__image/feinman__image.css);
+@import url(../blocks/feinman/__link/feinman__link.css);
+@import url(../blocks/feinman/__subtitle/feinman__subtitle.css);
+@import url(../blocks/feinman/__title/feinman__title.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);

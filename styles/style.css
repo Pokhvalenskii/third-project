@@ -9,7 +9,7 @@
   font-family: 'Helvetica Neue', 'Gilroy', Arial, sans-serif;
 }
 
-.header {
+/* .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
@@ -19,7 +19,7 @@
   flex-direction: column;
   justify-content: center;
   z-index: 0;
-}
+} */
 
 .logo_place_header {
   width: 183px;
@@ -29,7 +29,7 @@
   position: absolute;
 }
 
-.header__main-illustration {
+/* .header__main-illustration {
   width: 765px;
   height: 608px;
   position: absolute;
@@ -38,9 +38,9 @@
   right: 0px;
   bottom: 0px;
   z-index: -1;
-}
+} */
 
-.header__square-pic {
+/* .header__square-pic {
   width: 568px;
   height: 568px;
   position: absolute;
@@ -48,30 +48,30 @@
   right: 0px;
   top: 64px;
   z-index: -2;
-}
+} */
 
-.header__title {
+/* .header__title {
   display: flex;
   width: 730px;
   font-size: 102px;
   font-weight: 700;
   line-height: 96px;
   margin-left: 64px;
-}
+} */
 
-.header__subtitle {
+/* .header__subtitle {
   position: absolute;
   bottom: 30px;
   left: 64px;
   width: 388px;
   font-size: 18px;
   line-height: 25px;
-}
+} */
 
-.header__link {
+/* .header__link {
   text-decoration: none;
   color: #2f80ed;
-}
+} */
 
 
 
@@ -120,13 +120,13 @@
 
 /* digits style */
 
-.digits {
+/* .digits {
   padding-top: 100px;
   padding-bottom: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
-}
+} */
 
 .section-title {
   display: flex;
@@ -181,7 +181,7 @@
 
 /* feinman styles */
 
- .feinman {
+ /* .feinman {
   position: relative;
   min-height: 790px;
   background-color: #f2f2f2;
@@ -197,9 +197,9 @@
   bottom: 0;
   left: 0;
   z-index: 1;
-}
+} */
 
-.feinman__title {
+/* .feinman__title {
   display: flex;
   width: 648px;
   text-align: center;
@@ -207,17 +207,17 @@
   font-size: 120px;
   margin: 100px auto 70px;
   z-index: 2;
-}
+} */
 
-.feinman__subtitle {
+/* .feinman__subtitle {
   line-height: 51px;
   font-size: 36px;
   margin: 0;
   z-index: 2;
   font-weight: normal;
-}
+} */
 
-.feinman__link {
+/* .feinman__link {
   color: black;
   line-height: 51px;
   font-size: 36px;
@@ -226,7 +226,7 @@
   top: 50%;
   text-decoration: none;
   z-index: 2;
-}
+} */
 
 /* style kaufman */
 
