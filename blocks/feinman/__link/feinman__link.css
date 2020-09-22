@@ -8,3 +8,8 @@
   text-decoration: none;
   z-index: 2;
 }
+
+.feinman__link:hover{
+  transition: .1s ease-out;
+  opacity: .6;
+}
