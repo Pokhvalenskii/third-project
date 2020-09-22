@@ -1,0 +1,10 @@
+.khan__buy-link {
+  /* border: gold solid 1px; */
+  display: inline-flex;
+  vertical-align: top;
+  text-decoration: none;
+  line-height: 42px;
+  font-size: 30px;
+  color: #2f80ed;
+
+}
